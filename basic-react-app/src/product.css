@@ -1,0 +1,9 @@
+.Product{
+    background-color: blue;
+    border: 2px solid white;
+    border-radius: 28px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
